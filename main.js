@@ -21,4 +21,4 @@ for(var i = 0; i < drops.length; i++)
 if(drops[i]*font_size > c.height && Math.random() > 0.975)
 drops[i] = 0;
 drops[i]++;} }
-setInterval(draw, 89);
+setInterval(draw, 99);
